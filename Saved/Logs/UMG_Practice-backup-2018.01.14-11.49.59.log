@@ -1,0 +1,1443 @@
+﻿Log file open, 01/14/18 10:18:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UMG_Practice
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1533102943) SRandInit(1533102943).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.162141
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/EpicGames/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.14-01.18.51:896][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.14-01.18.51:896][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.14-01.18.51:904][  0]LogInit: Computer: DESKTOP-DIJL62K
+[2018.01.14-01.18.51:904][  0]LogInit: User: Administrator
+[2018.01.14-01.18.51:904][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.14-01.18.51:904][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2018.01.14-01.18.51:904][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.01.14-01.18.51:904][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.14-01.18.51:904][  0]LogMemory: Process Physical Memory: 273.21 MB used, 273.21 MB peak
+[2018.01.14-01.18.51:904][  0]LogMemory: Process Virtual Memory: 270.92 MB used, 270.92 MB peak
+[2018.01.14-01.18.51:904][  0]LogMemory: Physical Memory: 4555.66 MB used,  11790.89 MB free, 16346.55 MB total
+[2018.01.14-01.18.51:904][  0]LogMemory: Virtual Memory: 678.39 MB used,  11790.89 MB free, 134217728.00 MB total
+[2018.01.14-01.18.52:006][  0]LogInit: Using OS detected language (ko-KR).
+[2018.01.14-01.18.52:006][  0]LogInit: Using OS detected locale (ko-KR).
+[2018.01.14-01.18.52:009][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2018.01.14-01.18.52:164][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.14-01.18.52:454][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.14-01.18.52:500][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.01.14-01.18.52:500][  0]LogD3D11RHI:       8086/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.14-01.18.52:503][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.14-01.18.52:503][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.14-01.18.52:503][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.14-01.18.52:507][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.14-01.18.52:507][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.14-01.18.52:507][  0]LogWindows: EnumDisplayDevices:
+[2018.01.14-01.18.52:507][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.01.14-01.18.52:508][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.01.14-01.18.52:508][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.01.14-01.18.52:508][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.01.14-01.18.52:509][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.14-01.18.52:509][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.01.14-01.18.52:509][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.14-01.18.52:509][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.14-01.18.52:509][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.01.14-01.18.52:535][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.14-01.18.52:545][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.14-01.18.52:641][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Intermediate/Shaders/WorkingDirectory/11220/).
+[2018.01.14-01.18.52:641][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/B2957CAE43A96AFE099DBAAB0C295174/'.
+[2018.01.14-01.18.52:641][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.14-01.18.53:429][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.14-01.18.53:467][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.14-01.18.53:506][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.14-01.18.53:544][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.14-01.18.53:585][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.14-01.18.53:625][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.14-01.18.53:668][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.14-01.18.53:707][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.14-01.18.53:740][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.14-01.18.53:777][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.14-01.18.53:816][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.14-01.18.53:855][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.14-01.18.53:895][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.14-01.18.53:933][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.14-01.18.54:010][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.14-01.18.54:010][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.14-01.18.54:048][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.14-01.18.54:077][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.14-01.18.54:152][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.14-01.18.54:174][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.14-01.18.54:214][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.14-01.18.54:253][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.14-01.18.54:291][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.14-01.18.54:330][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.14-01.18.54:330][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.14-01.18.54:665][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.14-01.18.54:721][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.14-01.18.54:721][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.14-01.18.54:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.14-01.18.54:722][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.14-01.18.54:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.14-01.18.54:722][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.14-01.18.54:736][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.14-01.18.54:748][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.14-01.18.54:757][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.14-01.18.54:757][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.14-01.18.54:758][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.14-01.18.54:758][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.14-01.18.55:107][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.14-01.18.55:372][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.14-01.18.55:403][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.14-01.18.55:403][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.14-01.18.55:403][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.14-01.18.55:403][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.14-01.18.55:403][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.14-01.18.55:436][  0]LogNetVersion: UMG_Practice , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1776136475)
+[2018.01.14-01.18.55:575][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.01.14-01.18.56:033][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.066616 seconds
+[2018.01.14-01.18.56:038][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.14-01.18.56:038][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.14-01.18.56:038][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.14-01.18.56:071][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.14-01.18.58:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.14-01.18.58:846][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.14-01.18.59:592][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.14-01.18.59:965][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.14-01.18.59:965][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.14-01.19.00:013][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.14-01.19.00:061][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.14-01.19.00:776][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.14-01.19.01:004][  0]LogOcInput: OculusInput pre-init called
+[2018.01.14-01.19.01:243][  0]LogEngine: Initializing Engine...
+[2018.01.14-01.19.01:246][  0]LogHMD: Failed to initialize OpenVR with code 102
+[2018.01.14-01.19.01:432][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.14-01.19.01:432][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.14-01.19.01:550][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.14-01.19.01:588][  0]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.19.01:618][  0]LogInit: FAudioDevice initialized.
+[2018.01.14-01.19.01:695][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.14-01.19.01:706][  0]LogInit: Texture streaming: Enabled
+[2018.01.14-01.19.01:787][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.14-01.19.01:913][  0]LogInit: Transaction tracking system initialized
+[2018.01.14-01.19.02:170][  0]BlueprintLog: New page: 에디터 로드
+[2018.01.14-01.19.02:872][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2018.01.14-01.19.03:511][  0]LogConsoleResponse: Display: 
+[2018.01.14-01.19.03:672][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.14-01.19.03:672][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.14-01.19.03:672][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.14-01.19.04:194][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/' took 0.01s
+[2018.01.14-01.19.04:745][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2018.01.14-01.19.04:745][  0]Cmd: MAP LOAD FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Level/First.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.14-01.19.04:745][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.14-01.19.04:782][  0]MapCheck: New page: 맵 체크
+[2018.01.14-01.19.04:782][  0]LightingResults: New page: 라이팅 빌드
+[2018.01.14-01.19.04:872][  0]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.19.04:880][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.14-01.19.04:890][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.14-01.19.04:954][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 63.644ms.
+[2018.01.14-01.19.04:954][  0]LogFileHelpers: Loading map 'First' took 0.209
+[2018.01.14-01.19.05:026][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.01.14-01.19.05:112][  0]LogCollectionManager: Loaded 0 collections in 0.001241 seconds
+[2018.01.14-01.19.05:189][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Collections/' took 0.01s
+[2018.01.14-01.19.05:189][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.01.14-01.19.05:189][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Collections/' took 0.01s
+[2018.01.14-01.19.05:189][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.14-01.19.05:198][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2363 classes and 519 folders.
+[2018.01.14-01.19.05:254][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.14-01.19.05:304][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.14-01.19.05:343][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2018.01.14-01.19.05:376][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.14-01.19.05:429][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.14-01.19.05:433][  0]LogSlate: Took 0.002591 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2018.01.14-01.19.05:434][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.14-01.19.05:438][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.14-01.19.05:530][  0]LogRenderer: Reallocating scene render targets to support 1244x616 Format 10 NumSamples 1 (Frame:1).
+[2018.01.14-01.19.05:668][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.14-01.19.05:668][  0]LogLoad: (Engine Initialization) Total time: 15.91 seconds
+[2018.01.14-01.19.05:668][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.14-01.19.05:668][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.14-01.19.05:668][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.14-01.19.05:698][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.14-01.19.05:738][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.14-01.19.05:777][  1]LogAssetRegistry: Asset discovery search completed in 10.2240 seconds
+[2018.01.14-01.19.05:779][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.14-01.19.05:779][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2018.01.14-01.19.07:103][ 77]LogSlate: Took 0.000416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.14-01.19.13:481][ 99]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.14-01.19.13:798][ 99]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.01.14-01.19.14:840][ 99]LogLinker: Warning: 애셋 이름을 해석할 수 없습니다.
+[2018.01.14-01.19.15:414][ 99]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.14-01.19.15:506][ 99]LogRenderer: Reallocating scene render targets to support 1528x920 Format 10 NumSamples 1 (Frame:1).
+[2018.01.14-01.20.18:946][354]BlueprintLog: New page: HealthBar 컴파일
+[2018.01.14-01.20.19:088][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.20.19:119][354]LogSavePackage: Save=25.68ms
+[2018.01.14-01.20.19:119][354]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBar9FEE06794D22F0DB26DA44BE764E20F4.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.20.19:123][354]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.20.37:964][661]BlueprintLog: New page: HealthBar 컴파일
+[2018.01.14-01.20.38:077][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.20.38:106][661]LogSavePackage: Save=25.09ms
+[2018.01.14-01.20.38:106][661]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBarDD91687645CCABA0B3E7818C8132B007.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.20.38:111][661]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.23.36:386][136]LogEditorTransaction: Undo 위젯 이동
+[2018.01.14-01.23.38:670][275]LogEditorTransaction: Undo 위젯 추가
+[2018.01.14-01.23.47:411][798]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.14-01.25.16:277][484]BlueprintLog: New page: HealthBar 컴파일
+[2018.01.14-01.25.16:409][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.25.16:441][484]LogSavePackage: Save=28.05ms
+[2018.01.14-01.25.16:441][484]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBar272D2D444980CBCEC791F881962529DE.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.25.16:445][484]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.25.52:619][727]BlueprintLog: New page: HealthBar 컴파일
+[2018.01.14-01.25.52:751][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.25.52:781][727]LogSavePackage: Save=24.77ms
+[2018.01.14-01.25.52:781][727]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBar15EE1E4B417C6223354DE39644D47116.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.25.52:787][727]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.25.56:067][926]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.25.56:101][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.25.56:101][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.25.56:101][926]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:25:56)
+[2018.01.14-01.25.56:102][926]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.25.56:103][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001100s)
+[2018.01.14-01.25.56:103][926]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.25.56:104][926]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2018.01.14-01.25.56:104][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.002013s)
+[2018.01.14-01.25.56:151][926]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.25.56:168][926]LogInit: FAudioDevice initialized.
+[2018.01.14-01.25.56:212][926]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.25.56:213][926]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.25.56
+[2018.01.14-01.25.56:213][926]LogWorld: Bringing up level for play took: 0.000478
+[2018.01.14-01.25.56:250][926]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.01.14-01.25.56:251][926]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.25.56:251][926]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.25.56:251][926]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.25.56:252][926]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.25.56:252][926]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: -0.43
+[2018.01.14-01.25.56:253][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.25.59:897][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.25.59:928][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.26.16:555][233]BlueprintLog: New page: UMG_Total 컴파일
+[2018.01.14-01.26.16:615][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.26.16:633][233]LogSavePackage: Save=11.27ms
+[2018.01.14-01.26.16:633][233]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_Total7158E10649AF2EA95760558B7D38E6A5.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.26.16:637][233]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.26.28:385][961]BlueprintLog: New page: HealthBar 컴파일
+[2018.01.14-01.26.28:523][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.26.28:552][961]LogSavePackage: Save=24.53ms
+[2018.01.14-01.26.28:552][961]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBar2771322941D20301604202A59AA4BE65.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.26.28:556][961]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.26.30:469][ 80]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.26.30:488][ 80]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.26.30:488][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.26.30:488][ 80]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:26:30)
+[2018.01.14-01.26.30:489][ 80]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.26.30:490][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001443s)
+[2018.01.14-01.26.30:491][ 80]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.26.30:491][ 80]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2018.01.14-01.26.30:491][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.002406s)
+[2018.01.14-01.26.30:541][ 80]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.26.30:557][ 80]LogInit: FAudioDevice initialized.
+[2018.01.14-01.26.30:590][ 80]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.26.30:591][ 80]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.26.30
+[2018.01.14-01.26.30:591][ 80]LogWorld: Bringing up level for play took: 0.000407
+[2018.01.14-01.26.30:592][ 80]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.26.30:592][ 80]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.26.30:592][ 80]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.26.30:593][ 80]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.26.30:593][ 80]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: -0.09
+[2018.01.14-01.26.30:593][ 80]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.26.33:620][273]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.26.33:654][273]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.26.43:425][888]LogEditorTransaction: Undo 벡터 프로퍼티 설정
+[2018.01.14-01.26.44:044][888]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.614 s
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: === Handled ensure: ===
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: 
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: 
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: Stack: 
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000F5982786 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000F572123A UE4Editor-Core.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000F573B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000EA540B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000EA4EDE01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000E9612643 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000E96134D9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000E96574B8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000E6456695 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.14-01.26.44:044][888]LogOutputDevice: Error: [Callstack] 0x00000000E64539EC UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E64E01DB UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E64E4FF7 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E61D09D5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E62D763E UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E62373C7 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E623D227 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000DA3675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000BB8CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000B58824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E77AB4DC UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E78566B2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E77F37D6 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E77A12E5 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E7882619 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000E785016B UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000F4D30B8C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000F4D3588C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EB89D4D7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EA89B5FF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000F4E9E721 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EA4EEA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EA516112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EA4FDCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EA4FE61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EA5628FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EA5A5A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000F4D30FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000F4D35D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000B59636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000B983A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EAD5BE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000EAD47803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000B463A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000B1700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000B18C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000B9988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000000B8BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x000000000330E28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000003301A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000033103EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x00000000032FD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x000000002737B85D USER32.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x000000002737B1EF USER32.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000003311516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000021D550C8 UE4Editor.exe!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000021D65430 UE4Editor.exe!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000021D654AA UE4Editor.exe!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000021D72379 UE4Editor.exe!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000021D73D57 UE4Editor.exe!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000026AD1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: [Callstack] 0x0000000027ECEF91 ntdll.dll!UnknownFunction []
+[2018.01.14-01.26.44:045][888]LogOutputDevice: Error: 
+[2018.01.14-01.26.44:048][888]LogStats:                SubmitErrorReport -  0.000 s
+[2018.01.14-01.26.48:324][888]LogStats:                    SendNewReport -  4.276 s
+[2018.01.14-01.26.48:324][888]LogStats:             FDebug::EnsureFailed -  4.894 s
+[2018.01.14-01.26.52:424][137]BlueprintLog: New page: HealthBar 컴파일
+[2018.01.14-01.26.52:571][137]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.26.52:600][137]LogSavePackage: Save=25.54ms
+[2018.01.14-01.26.52:600][137]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBar159E18D048390D259C9632B1CC2E83C0.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.26.52:604][137]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.27.57:637][220]BlueprintLog: New page: HealthBar 컴파일
+[2018.01.14-01.27.57:768][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.27.57:799][220]LogSavePackage: Save=25.89ms
+[2018.01.14-01.27.57:799][220]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBar3C57CF014D0960EE428243A21B177E53.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.27.57:803][220]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.27.58:189][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.27.58:217][250]LogSavePackage: Save=24.12ms
+[2018.01.14-01.27.58:217][250]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBar58906FC14717898439B2D99FF2223A15.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.27.58:220][250]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.28.12:749][171]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.28.12:767][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.28.12:767][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.28.12:767][171]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:28:12)
+[2018.01.14-01.28.12:767][171]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.28.12:768][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000984s)
+[2018.01.14-01.28.12:769][171]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.28.12:769][171]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2018.01.14-01.28.12:769][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.002280s)
+[2018.01.14-01.28.12:818][171]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.28.12:832][171]LogInit: FAudioDevice initialized.
+[2018.01.14-01.28.12:866][171]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.28.12:867][171]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.28.12
+[2018.01.14-01.28.12:867][171]LogWorld: Bringing up level for play took: 0.000408
+[2018.01.14-01.28.12:868][171]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.28.12:868][171]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.28.12:868][171]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.28.12:869][171]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.28.12:869][171]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: 0.186
+[2018.01.14-01.28.12:869][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.28.22:042][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.28.22:076][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.28.40:738][899]BlueprintLog: New page: HealthBar 컴파일
+[2018.01.14-01.28.40:897][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.28.40:928][899]LogSavePackage: Save=26.18ms
+[2018.01.14-01.28.40:928][899]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBarBB9218C7469C2889EA31F5A29CA02B47.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.28.40:932][899]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.28.41:386][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/HealthBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset" SILENT=true
+[2018.01.14-01.28.41:415][925]LogSavePackage: Save=24.73ms
+[2018.01.14-01.28.41:415][925]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/HealthBar2D9CB90E46B11ECC3D9CA29E0D3A9BA0.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset'
+[2018.01.14-01.28.41:417][925]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/HealthBar.uasset
+[2018.01.14-01.28.52:450][655]BlueprintLog: New page: UMG_Total 컴파일
+[2018.01.14-01.28.52:510][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.28.52:526][655]LogSavePackage: Save=10.27ms
+[2018.01.14-01.28.52:526][655]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_TotalB8E1F4D542DF40C467DCE8B5CA5AF91F.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.28.52:531][655]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.28.53:422][711]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.28.53:440][711]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.28.53:440][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.28.53:440][711]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:28:53)
+[2018.01.14-01.28.53:440][711]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.28.53:441][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001059s)
+[2018.01.14-01.28.53:442][711]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.28.53:442][711]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2018.01.14-01.28.53:442][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.002049s)
+[2018.01.14-01.28.53:490][711]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.28.53:504][711]LogInit: FAudioDevice initialized.
+[2018.01.14-01.28.53:535][711]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.28.53:536][711]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.28.53
+[2018.01.14-01.28.53:537][711]LogWorld: Bringing up level for play took: 0.000421
+[2018.01.14-01.28.53:537][711]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.28.53:537][711]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.28.53:537][711]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.28.53:538][711]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.28.53:538][711]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: 0.856
+[2018.01.14-01.28.53:539][711]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.28.56:119][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.28.56:153][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.29.26:353][414]BlueprintLog: New page: UMG_Total 컴파일
+[2018.01.14-01.29.26:392][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.29.26:405][414]LogSavePackage: Save=8.69ms
+[2018.01.14-01.29.26:405][414]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_TotalF184CAD2445DCD80D32B5E8526E7E505.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.29.26:410][414]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.29.26:862][460]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.29.26:875][460]LogSavePackage: Save=8.65ms
+[2018.01.14-01.29.26:875][460]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_Total19669FEF40DA3760FB2A26875E089E21.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.29.26:877][460]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.29.36:705][258]BlueprintLog: New page: UMG_Total 컴파일
+[2018.01.14-01.29.36:747][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.29.36:760][258]LogSavePackage: Save=8.47ms
+[2018.01.14-01.29.36:760][258]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_TotalD5E63A394017A8C6C4EC289F575E04BB.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.29.36:765][258]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.30.11:669][344]BlueprintLog: New page: ManaBar 컴파일
+[2018.01.14-01.30.11:775][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/ManaBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/ManaBar.uasset" SILENT=true
+[2018.01.14-01.30.11:801][344]LogSavePackage: Save=24.98ms
+[2018.01.14-01.30.11:801][344]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/ManaBarCECA7A864FC45477830F85B69CE9A2BF.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/ManaBar.uasset'
+[2018.01.14-01.30.11:805][344]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/ManaBar.uasset
+[2018.01.14-01.30.12:209][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/ManaBar" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/ManaBar.uasset" SILENT=true
+[2018.01.14-01.30.12:238][388]LogSavePackage: Save=23.74ms
+[2018.01.14-01.30.12:238][388]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/ManaBar1CA2B6244638F43E700557B0CE2996BA.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/ManaBar.uasset'
+[2018.01.14-01.30.12:240][388]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/ManaBar.uasset
+[2018.01.14-01.30.13:669][551]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.30.13:686][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.30.13:686][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.30.13:687][551]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:30:13)
+[2018.01.14-01.30.13:690][551]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.30.13:691][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001038s)
+[2018.01.14-01.30.13:691][551]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.30.13:691][551]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2018.01.14-01.30.13:692][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.001813s)
+[2018.01.14-01.30.13:735][551]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.30.13:749][551]LogInit: FAudioDevice initialized.
+[2018.01.14-01.30.13:780][551]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.30.13:781][551]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.30.13
+[2018.01.14-01.30.13:781][551]LogWorld: Bringing up level for play took: 0.000396
+[2018.01.14-01.30.13:782][551]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.30.13:782][551]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.30.13:782][551]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.30.13:783][551]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.30.13:783][551]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: -0.899
+[2018.01.14-01.30.13:783][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.30.15:055][699]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.30.15:088][699]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.30.50:122][401]BlueprintLog: New page: UMG_Total 컴파일
+[2018.01.14-01.30.50:179][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.30.50:194][401]LogSavePackage: Save=10.01ms
+[2018.01.14-01.30.50:194][401]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_TotalDAC8272E428E2818860C47B65F0BEB1D.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.30.50:199][401]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.30.50:619][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.30.50:633][429]LogSavePackage: Save=10.48ms
+[2018.01.14-01.30.50:633][429]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_TotalBE67F6D04947F77815FF978B43F0A36A.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.30.50:635][429]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.30.51:377][483]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.30.51:392][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.30.51:392][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.30.51:392][483]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:30:51)
+[2018.01.14-01.30.51:392][483]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.30.51:394][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001358s)
+[2018.01.14-01.30.51:394][483]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.30.51:395][483]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2018.01.14-01.30.51:395][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.002266s)
+[2018.01.14-01.30.51:440][483]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.30.51:456][483]LogInit: FAudioDevice initialized.
+[2018.01.14-01.30.51:489][483]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.30.51:490][483]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.30.51
+[2018.01.14-01.30.51:490][483]LogWorld: Bringing up level for play took: 0.000437
+[2018.01.14-01.30.51:491][483]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.30.51:491][483]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.30.51:491][483]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.30.51:492][483]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.30.51:492][483]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: 0.81
+[2018.01.14-01.30.51:492][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.30.59:450][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.30.59:484][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.37.22:788][448]BlueprintLog: New page: CheckBox 컴파일
+[2018.01.14-01.37.22:963][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/CheckBox" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset" SILENT=true
+[2018.01.14-01.37.22:974][448]LogSavePackage: Save=9.49ms
+[2018.01.14-01.37.22:974][448]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/CheckBox786D56D24788FBDB9F3788A5F73ABA04.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset'
+[2018.01.14-01.37.22:979][448]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset
+[2018.01.14-01.37.31:620][ 16]PIE: '/Engine/Transient.CheckBox_C_75' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:622][ 16]PIE: '/Engine/Transient.CheckBox_C_77' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:624][ 16]PIE: '/Engine/Transient.CheckBox_C_79' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:643][ 17]PIE: '/Engine/Transient.CheckBox_C_81' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:645][ 17]PIE: '/Engine/Transient.CheckBox_C_83' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:648][ 17]PIE: '/Engine/Transient.CheckBox_C_85' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:661][ 18]PIE: '/Engine/Transient.CheckBox_C_87' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:663][ 18]PIE: '/Engine/Transient.CheckBox_C_89' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:665][ 18]PIE: '/Engine/Transient.CheckBox_C_91' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:668][ 18]PIE: '/Engine/Transient.CheckBox_C_93' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:681][ 19]PIE: '/Engine/Transient.CheckBox_C_95' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:685][ 19]PIE: '/Engine/Transient.CheckBox_C_97' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:698][ 20]PIE: '/Engine/Transient.CheckBox_C_99' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:701][ 20]PIE: '/Engine/Transient.CheckBox_C_101' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:717][ 21]PIE: '/Engine/Transient.CheckBox_C_103' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:720][ 21]PIE: '/Engine/Transient.CheckBox_C_105' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:735][ 22]PIE: '/Engine/Transient.CheckBox_C_107' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:737][ 22]PIE: '/Engine/Transient.CheckBox_C_109' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:752][ 23]PIE: '/Engine/Transient.CheckBox_C_111' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:768][ 24]PIE: '/Engine/Transient.CheckBox_C_113' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:783][ 25]PIE: '/Engine/Transient.CheckBox_C_115' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:799][ 26]PIE: '/Engine/Transient.CheckBox_C_117' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:814][ 27]PIE: '/Engine/Transient.CheckBox_C_119' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:827][ 28]PIE: '/Engine/Transient.CheckBox_C_121' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:830][ 28]PIE: '/Engine/Transient.CheckBox_C_123' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:844][ 29]PIE: '/Engine/Transient.CheckBox_C_125' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:848][ 29]PIE: '/Engine/Transient.CheckBox_C_127' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:862][ 30]PIE: '/Engine/Transient.CheckBox_C_129' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:865][ 30]PIE: '/Engine/Transient.CheckBox_C_131' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:880][ 31]PIE: '/Engine/Transient.CheckBox_C_133' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:881][ 31]PIE: '/Engine/Transient.CheckBox_C_135' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:884][ 31]PIE: '/Engine/Transient.CheckBox_C_137' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:899][ 32]PIE: '/Engine/Transient.CheckBox_C_139' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:902][ 32]PIE: '/Engine/Transient.CheckBox_C_141' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:916][ 33]PIE: '/Engine/Transient.CheckBox_C_143' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:920][ 33]PIE: '/Engine/Transient.CheckBox_C_145' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:934][ 34]PIE: '/Engine/Transient.CheckBox_C_147' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:938][ 34]PIE: '/Engine/Transient.CheckBox_C_149' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:953][ 35]PIE: '/Engine/Transient.CheckBox_C_151' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:970][ 36]PIE: '/Engine/Transient.CheckBox_C_153' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:985][ 37]PIE: '/Engine/Transient.CheckBox_C_155' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.31:999][ 38]PIE: '/Engine/Transient.CheckBox_C_157' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:003][ 38]PIE: '/Engine/Transient.CheckBox_C_159' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:017][ 39]PIE: '/Engine/Transient.CheckBox_C_161' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:032][ 40]PIE: '/Engine/Transient.CheckBox_C_163' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:036][ 40]PIE: '/Engine/Transient.CheckBox_C_165' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:049][ 41]PIE: '/Engine/Transient.CheckBox_C_167' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:051][ 41]PIE: '/Engine/Transient.CheckBox_C_169' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:054][ 41]PIE: '/Engine/Transient.CheckBox_C_171' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:067][ 42]PIE: '/Engine/Transient.CheckBox_C_173' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:070][ 42]PIE: '/Engine/Transient.CheckBox_C_175' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:085][ 43]PIE: '/Engine/Transient.CheckBox_C_177' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:086][ 43]PIE: '/Engine/Transient.CheckBox_C_179' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:088][ 43]PIE: '/Engine/Transient.CheckBox_C_181' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:089][ 43]PIE: '/Engine/Transient.CheckBox_C_183' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:092][ 43]PIE: '/Engine/Transient.CheckBox_C_185' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:107][ 44]PIE: '/Engine/Transient.CheckBox_C_187' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:110][ 44]PIE: '/Engine/Transient.CheckBox_C_189' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:124][ 45]PIE: '/Engine/Transient.CheckBox_C_191' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:127][ 45]PIE: '/Engine/Transient.CheckBox_C_193' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:142][ 46]PIE: '/Engine/Transient.CheckBox_C_195' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:158][ 47]PIE: '/Engine/Transient.CheckBox_C_197' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:173][ 48]PIE: '/Engine/Transient.CheckBox_C_199' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:188][ 49]PIE: '/Engine/Transient.CheckBox_C_201' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:203][ 50]PIE: '/Engine/Transient.CheckBox_C_203' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:220][ 51]PIE: '/Engine/Transient.CheckBox_C_205' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:235][ 52]PIE: '/Engine/Transient.CheckBox_C_207' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:250][ 53]PIE: '/Engine/Transient.CheckBox_C_209' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:266][ 54]PIE: '/Engine/Transient.CheckBox_C_211' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:282][ 55]PIE: '/Engine/Transient.CheckBox_C_213' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:297][ 56]PIE: '/Engine/Transient.CheckBox_C_215' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:311][ 57]PIE: '/Engine/Transient.CheckBox_C_217' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:326][ 58]PIE: '/Engine/Transient.CheckBox_C_219' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:340][ 59]PIE: '/Engine/Transient.CheckBox_C_221' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:355][ 60]PIE: '/Engine/Transient.CheckBox_C_223' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:370][ 61]PIE: '/Engine/Transient.CheckBox_C_225' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:385][ 62]PIE: '/Engine/Transient.CheckBox_C_227' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:401][ 63]PIE: '/Engine/Transient.CheckBox_C_229' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:415][ 64]PIE: '/Engine/Transient.CheckBox_C_231' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:431][ 65]PIE: '/Engine/Transient.CheckBox_C_233' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:446][ 66]PIE: '/Engine/Transient.CheckBox_C_235' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:461][ 67]PIE: '/Engine/Transient.CheckBox_C_237' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:478][ 68]PIE: '/Engine/Transient.CheckBox_C_239' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:494][ 69]PIE: '/Engine/Transient.CheckBox_C_241' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:508][ 70]PIE: '/Engine/Transient.CheckBox_C_243' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:511][ 70]PIE: '/Engine/Transient.CheckBox_C_245' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:525][ 71]PIE: '/Engine/Transient.CheckBox_C_247' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:528][ 71]PIE: '/Engine/Transient.CheckBox_C_249' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:543][ 72]PIE: '/Engine/Transient.CheckBox_C_251' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:558][ 73]PIE: '/Engine/Transient.CheckBox_C_253' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:572][ 74]PIE: '/Engine/Transient.CheckBox_C_255' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:588][ 75]PIE: '/Engine/Transient.CheckBox_C_257' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:604][ 76]PIE: '/Engine/Transient.CheckBox_C_259' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:620][ 77]PIE: '/Engine/Transient.CheckBox_C_261' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:635][ 78]PIE: '/Engine/Transient.CheckBox_C_263' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:650][ 79]PIE: '/Engine/Transient.CheckBox_C_265' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:666][ 80]PIE: '/Engine/Transient.CheckBox_C_267' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:681][ 81]PIE: '/Engine/Transient.CheckBox_C_269' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:696][ 82]PIE: '/Engine/Transient.CheckBox_C_271' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:712][ 83]PIE: '/Engine/Transient.CheckBox_C_273' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:728][ 84]PIE: '/Engine/Transient.CheckBox_C_275' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:743][ 85]PIE: '/Engine/Transient.CheckBox_C_277' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:758][ 86]PIE: '/Engine/Transient.CheckBox_C_279' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:773][ 87]PIE: '/Engine/Transient.CheckBox_C_281' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:789][ 88]PIE: '/Engine/Transient.CheckBox_C_283' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:804][ 89]PIE: '/Engine/Transient.CheckBox_C_285' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:819][ 90]PIE: '/Engine/Transient.CheckBox_C_287' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:834][ 91]PIE: '/Engine/Transient.CheckBox_C_289' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:851][ 92]PIE: '/Engine/Transient.CheckBox_C_291' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:866][ 93]PIE: '/Engine/Transient.CheckBox_C_293' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:882][ 94]PIE: '/Engine/Transient.CheckBox_C_295' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.32:897][ 95]PIE: '/Engine/Transient.CheckBox_C_297' 에서 호출된 UWidget::RemoveFromParent() 에 UMG 부모가 없습니다 (TakeWidget() 을 통해 네이티브 슬레이트 위젯에 바로 추가된 경우 RemoveFromParent() 를 통해서가 아니라 명시적으로 바로 제거해 줘야 합니다.)
+[2018.01.14-01.37.35:166][245]BlueprintLog: New page: UMG_Total 컴파일
+[2018.01.14-01.37.35:218][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.37.35:237][245]LogSavePackage: Save=11.92ms
+[2018.01.14-01.37.35:237][245]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_Total869E282B4D8B4EC623C56BA535EE3C02.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.37.35:241][245]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.37.35:900][282]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.37.35:918][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.37.35:918][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.37.35:918][282]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:37:35)
+[2018.01.14-01.37.35:919][282]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.37.35:920][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001059s)
+[2018.01.14-01.37.35:920][282]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.37.35:920][282]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.01.14-01.37.35:921][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.001869s)
+[2018.01.14-01.37.35:969][282]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.37.35:986][282]LogInit: FAudioDevice initialized.
+[2018.01.14-01.37.36:015][282]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.37.36:016][282]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.37.36
+[2018.01.14-01.37.36:017][282]LogWorld: Bringing up level for play took: 0.000339
+[2018.01.14-01.37.36:017][282]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.37.36:017][282]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.37.36:017][282]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.37.36:018][282]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.37.36:018][282]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: -0.664
+[2018.01.14-01.37.36:019][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.37.39:265][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.37.39:296][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.22:756][381]BlueprintLog: New page: CheckBox 컴파일
+[2018.01.14-01.38.22:934][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/CheckBox" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset" SILENT=true
+[2018.01.14-01.38.22:949][381]LogSavePackage: Save=9.69ms
+[2018.01.14-01.38.22:950][381]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/CheckBox5C1A0D4A434172876A3E8AB532616D4F.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset'
+[2018.01.14-01.38.22:953][381]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset
+[2018.01.14-01.38.23:841][436]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.38.23:859][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.23:859][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.38.23:859][436]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:38:23)
+[2018.01.14-01.38.23:860][436]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.38.23:861][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000987s)
+[2018.01.14-01.38.23:861][436]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.38.23:861][436]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2018.01.14-01.38.23:862][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.001925s)
+[2018.01.14-01.38.23:907][436]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.38.23:920][436]LogInit: FAudioDevice initialized.
+[2018.01.14-01.38.23:951][436]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.38.23:952][436]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.38.23
+[2018.01.14-01.38.23:952][436]LogWorld: Bringing up level for play took: 0.000347
+[2018.01.14-01.38.23:952][436]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.38.23:952][436]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.38.23:953][436]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.38.23:954][436]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.38.23:954][436]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: -0.729
+[2018.01.14-01.38.23:954][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.30:321][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.30:354][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.41:046][581]BlueprintLog: New page: CheckBox 컴파일
+[2018.01.14-01.38.41:220][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/CheckBox" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset" SILENT=true
+[2018.01.14-01.38.41:232][581]LogSavePackage: Save=7.94ms
+[2018.01.14-01.38.41:232][581]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/CheckBox13EC1F4D4B19C632E44F2091DC96A547.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset'
+[2018.01.14-01.38.41:236][581]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/CheckBox.uasset
+[2018.01.14-01.38.42:366][653]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-01.38.42:384][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.42:384][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-01.38.42:384][653]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 7:38:42)
+[2018.01.14-01.38.42:384][653]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-01.38.42:385][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000935s)
+[2018.01.14-01.38.42:386][653]LogAIModule: Creating AISystem for world First
+[2018.01.14-01.38.42:386][653]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2018.01.14-01.38.42:386][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.001666s)
+[2018.01.14-01.38.42:431][653]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-01.38.42:444][653]LogInit: FAudioDevice initialized.
+[2018.01.14-01.38.42:475][653]LogLoad: Game class is 'GameMode'
+[2018.01.14-01.38.42:476][653]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-10.38.42
+[2018.01.14-01.38.42:476][653]LogWorld: Bringing up level for play took: 0.000387
+[2018.01.14-01.38.42:477][653]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.38.42:477][653]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-01.38.42:477][653]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.38.42:478][653]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-01.38.42:478][653]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: -0.204
+[2018.01.14-01.38.42:478][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.46:922][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.46:954][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-01.38.57:226][670]BlueprintLog: New page: UMG_Total 컴파일
+[2018.01.14-01.38.57:281][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.38.57:297][670]LogSavePackage: Save=11.38ms
+[2018.01.14-01.38.57:297][670]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_Total44C63F3F408CF9CD2E1C71BF919DDB61.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.38.57:301][670]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.40.19:622][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/big_panel_1_Sprite" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/big_panel_1_Sprite.uasset" SILENT=true
+[2018.01.14-01.40.19:634][924]LogSavePackage: Save=5.46ms
+[2018.01.14-01.40.19:634][924]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/big_panel_1_SpriteBF0EF3EB4314496E3234BE8B53955DFA.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/big_panel_1_Sprite.uasset'
+[2018.01.14-01.40.19:638][924]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/big_panel_1_Sprite.uasset
+[2018.01.14-01.40.21:627][153]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.21:627][153]LogEditorTransaction: Undo Y 편집
+[2018.01.14-01.40.22:429][232]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.22:429][232]LogEditorTransaction: Undo Y 편집
+[2018.01.14-01.40.22:853][280]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.22:853][280]LogEditorTransaction: Undo Y 편집
+[2018.01.14-01.40.23:235][324]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.23:235][324]LogEditorTransaction: Undo Y 편집
+[2018.01.14-01.40.23:597][366]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.23:597][366]LogEditorTransaction: Undo Y 편집
+[2018.01.14-01.40.24:073][421]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.24:073][421]LogEditorTransaction: Undo X 편집
+[2018.01.14-01.40.24:426][462]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.24:426][462]LogEditorTransaction: Undo X 편집
+[2018.01.14-01.40.24:800][504]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.24:800][504]LogEditorTransaction: Undo X 편집
+[2018.01.14-01.40.25:135][541]Cmd: TRANSACTION UNDO
+[2018.01.14-01.40.25:135][541]LogEditorTransaction: Undo X 편집
+[2018.01.14-01.40.26:099][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/big_panel_1_Sprite" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/big_panel_1_Sprite.uasset" SILENT=true
+[2018.01.14-01.40.26:110][644]LogSavePackage: Save=5.60ms
+[2018.01.14-01.40.26:110][644]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/big_panel_1_Sprite6E5CA0BB42C566164F13D7B288E2F0E8.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/big_panel_1_Sprite.uasset'
+[2018.01.14-01.40.26:114][644]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/big_panel_1_Sprite.uasset
+[2018.01.14-01.40.46:504][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_LeftTop" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_LeftTop.uasset" SILENT=true
+[2018.01.14-01.40.46:511][880]LogSavePackage: Save=5.17ms
+[2018.01.14-01.40.46:511][880]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_LeftTopB820F8F247A8E186FF39B8AAEF5584EA.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_LeftTop.uasset'
+[2018.01.14-01.40.46:514][880]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_LeftTop.uasset
+[2018.01.14-01.41.01:572][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_TopLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopLeft.uasset" SILENT=true
+[2018.01.14-01.41.01:578][551]LogSavePackage: Save=4.78ms
+[2018.01.14-01.41.01:578][551]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_TopLeft9A4D73A344BBA726B4F26E8C493C6A11.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopLeft.uasset'
+[2018.01.14-01.41.01:582][551]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopLeft.uasset
+[2018.01.14-01.41.44:165][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_TopMid" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopMid.uasset" SILENT=true
+[2018.01.14-01.41.44:172][255]LogSavePackage: Save=6.01ms
+[2018.01.14-01.41.44:172][255]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_TopMid4965892E4A32833EA8C9F9AF37EED05B.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopMid.uasset'
+[2018.01.14-01.41.44:177][255]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopMid.uasset
+[2018.01.14-01.42.11:007][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_TopRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopRight.uasset" SILENT=true
+[2018.01.14-01.42.11:013][160]LogSavePackage: Save=4.46ms
+[2018.01.14-01.42.11:013][160]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_TopRight89E87B8C4DFBAE548B2DBCB8FDE01A89.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopRight.uasset'
+[2018.01.14-01.42.11:017][160]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopRight.uasset
+[2018.01.14-01.42.40:612][216]BlueprintLog: New page: Inventory 컴파일
+[2018.01.14-01.42.40:712][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset" SILENT=true
+[2018.01.14-01.42.40:720][216]LogSavePackage: Save=6.17ms
+[2018.01.14-01.42.40:720][216]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Inventory00D1A5A34E40BB8B2401E58148685DE6.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset'
+[2018.01.14-01.42.40:724][216]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset
+[2018.01.14-01.44.50:940][893]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/First' took 0.020
+[2018.01.14-01.44.50:965][893]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UMG/Inventory] ([1] browsable assets)...
+[2018.01.14-01.44.50:965][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/UMG/Inventory]
+[2018.01.14-01.44.50:965][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Autosaves/Game/UMG/Inventory_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.01.14-01.44.50:983][893]LogSavePackage: Save=11.32ms
+[2018.01.14-01.44.50:983][893]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Inventory_Auto1C184092140EC311F91CEC7BCB07AD795.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Autosaves/Game/UMG/Inventory_Auto1.uasset'
+[2018.01.14-01.44.50:985][893]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Autosaves/Game/UMG/Inventory_Auto1.uasset
+[2018.01.14-01.44.50:985][893]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.01.14-01.46.23:253][420]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Administrator/Downloads/Pocket GUI asset/Pocket GUI asset/brown/panels/big panel 1_modify.png)
+[2018.01.14-01.46.23:258][420]LogTexture: Display: 텍스처 빌드: big_panel_1_modify (BGRA8, 95X164)
+[2018.01.14-01.46.29:967][845]LogSavePackage: Save=4.91ms
+[2018.01.14-01.46.29:967][845]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/big_panel_1_modify_Sprite7C4C077A44CCA1356E0E348CEC1D8600.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/big_panel_1_modify_Sprite.uasset'
+[2018.01.14-01.46.29:971][845]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/big_panel_1_modify_Sprite.uasset
+[2018.01.14-01.46.54:816][213]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.14-01.47.03:130][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Texture/big_panel_1_modify" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Texture/big_panel_1_modify.uasset" SILENT=true
+[2018.01.14-01.47.03:135][138]LogSavePackage: Save=3.28ms
+[2018.01.14-01.47.03:135][138]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/big_panel_1_modify20B597E847EFBE8CDA1221A2E0297F7A.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Texture/big_panel_1_modify.uasset'
+[2018.01.14-01.47.03:140][138]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Texture/big_panel_1_modify.uasset
+[2018.01.14-01.47.08:157][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_TopLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopLeft.uasset" SILENT=true
+[2018.01.14-01.47.08:168][615]LogSavePackage: Save=4.60ms
+[2018.01.14-01.47.08:168][615]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_TopLeft3D3F53224A71E99279A93E9F4365B1E2.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopLeft.uasset'
+[2018.01.14-01.47.08:171][615]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopLeft.uasset
+[2018.01.14-01.47.18:258][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_TopMid" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopMid.uasset" SILENT=true
+[2018.01.14-01.47.18:270][643]LogSavePackage: Save=6.00ms
+[2018.01.14-01.47.18:270][643]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_TopMid602B66504CCBD588CD215F90A59D1557.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopMid.uasset'
+[2018.01.14-01.47.18:274][643]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopMid.uasset
+[2018.01.14-01.47.22:136][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_TopRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopRight.uasset" SILENT=true
+[2018.01.14-01.47.22:147][ 39]LogSavePackage: Save=4.69ms
+[2018.01.14-01.47.22:147][ 39]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_TopRight0B6B38FF46AFBD4892DC2A92B1486AAF.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopRight.uasset'
+[2018.01.14-01.47.22:150][ 39]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_TopRight.uasset
+[2018.01.14-01.47.27:926][401]BlueprintLog: New page: Inventory 컴파일
+[2018.01.14-01.47.27:969][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset" SILENT=true
+[2018.01.14-01.47.27:986][401]LogSavePackage: Save=11.35ms
+[2018.01.14-01.47.27:986][401]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/InventoryDB8CA9214D809303251B9D9E4BF20739.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset'
+[2018.01.14-01.47.27:990][401]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset
+[2018.01.14-01.47.28:540][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset" SILENT=true
+[2018.01.14-01.47.28:555][434]LogSavePackage: Save=10.07ms
+[2018.01.14-01.47.28:555][434]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Inventory5485492D458353F68F60CF87F83CE236.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset'
+[2018.01.14-01.47.28:557][434]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset
+[2018.01.14-01.48.22:510][ 57]BlueprintLog: New page: UMG_Total 컴파일
+[2018.01.14-01.48.22:567][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.48.22:588][ 57]LogSavePackage: Save=15.40ms
+[2018.01.14-01.48.22:588][ 57]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_TotalDE0541554F2577C04B77F29DF1FD4254.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.48.22:593][ 57]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.48.23:023][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/UMG_Total" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset" SILENT=true
+[2018.01.14-01.48.23:041][ 82]LogSavePackage: Save=12.41ms
+[2018.01.14-01.48.23:041][ 82]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/UMG_TotalDEE2E67E4685E4C12EAB08B1D0974086.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset'
+[2018.01.14-01.48.23:043][ 82]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/UMG_Total.uasset
+[2018.01.14-01.50.02:087][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset" SILENT=true
+[2018.01.14-01.50.02:096][812]LogSavePackage: Save=7.35ms
+[2018.01.14-01.50.02:097][812]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotLeft5A01B149470A50D06EDC948078EF9D02.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset'
+[2018.01.14-01.50.02:100][812]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset
+[2018.01.14-01.50.38:014][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset" SILENT=true
+[2018.01.14-01.50.38:022][475]LogSavePackage: Save=5.43ms
+[2018.01.14-01.50.38:022][475]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotRight1B0CA9EB483423673EFA3FA541EB92DA.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset'
+[2018.01.14-01.50.38:026][475]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset
+[2018.01.14-01.51.32:203][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotMid" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset" SILENT=true
+[2018.01.14-01.51.32:210][833]LogSavePackage: Save=4.89ms
+[2018.01.14-01.51.32:210][833]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotMid760881C049FE7CFBD600F7B6C63EED23.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset'
+[2018.01.14-01.51.32:214][833]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset
+[2018.01.14-01.52.37:919][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/First" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Level/First.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.14-01.52.38:056][797]LogSavePackage: Save=107.64ms
+[2018.01.14-01.52.38:056][797]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/FirstE13117FE40BAABBB32B8B08E24998600.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Level/First.umap'
+[2018.01.14-01.52.38:060][797]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Level/First.umap
+[2018.01.14-02.25.26:164][929]LogHttp: Warning: 000001D07E1AF280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.01.14-02.25.26:165][929]LogHttp: Warning: 000001D07E1AF280: libcurl info message cache 0 (Connection 16 seems to be dead!)
+[2018.01.14-02.25.26:165][929]LogHttp: Warning: 000001D07E1AF280: libcurl info message cache 1 (Closing connection 16)
+[2018.01.14-02.25.26:165][929]LogHttp: Warning: 000001D07E1AF280: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.01.14-02.25.26:165][929]LogHttp: Warning: 000001D07E1AF280: libcurl info message cache 3 (Closing connection 17)
+[2018.01.14-02.25.33:213][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/First' took 0.020
+[2018.01.14-02.25.33:217][950]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Resource/Sprites/Panel_MidLeft] ([1] browsable assets)...
+[2018.01.14-02.25.33:226][950]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Resource/Sprites/Panel_MidLeft.Panel_MidLeft]
+[2018.01.14-02.25.33:226][950]OBJ SavePackage: Finished generating thumbnails for package [/Game/Resource/Sprites/Panel_MidLeft]
+[2018.01.14-02.25.33:234][950]LogSavePackage: Save=5.30ms
+[2018.01.14-02.25.33:234][950]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidLeft_Auto2578946D94FFCC24F7971DE8A86215E58.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Autosaves/Game/Resource/Sprites/Panel_MidLeft_Auto2.uasset'
+[2018.01.14-02.25.33:236][950]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Autosaves/Game/Resource/Sprites/Panel_MidLeft_Auto2.uasset
+[2018.01.14-02.25.33:236][950]LogFileHelpers: Auto-saving content packages took 0.021
+[2018.01.14-02.39.00:948][480]Cmd: TRANSACTION UNDO
+[2018.01.14-02.39.00:948][480]LogEditorTransaction: Undo X 편집
+[2018.01.14-02.39.01:318][509]Cmd: TRANSACTION UNDO
+[2018.01.14-02.39.01:318][509]LogEditorTransaction: Undo 벡터 프로퍼티 설정
+[2018.01.14-02.39.01:655][540]Cmd: TRANSACTION UNDO
+[2018.01.14-02.39.01:655][540]LogEditorTransaction: Undo Pivot Mode 편집
+[2018.01.14-02.39.02:023][577]Cmd: TRANSACTION UNDO
+[2018.01.14-02.39.02:023][577]LogEditorTransaction: Undo Y 편집
+[2018.01.14-02.39.02:423][617]Cmd: TRANSACTION UNDO
+[2018.01.14-02.39.02:423][617]LogEditorTransaction: Undo Y 편집
+[2018.01.14-02.39.02:770][651]Cmd: TRANSACTION UNDO
+[2018.01.14-02.39.02:770][651]LogEditorTransaction: Undo Y 편집
+[2018.01.14-02.39.19:430][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_MidLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidLeft.uasset" SILENT=true
+[2018.01.14-02.39.19:438][321]LogSavePackage: Save=6.55ms
+[2018.01.14-02.39.19:438][321]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidLeftD748088148559F4E3E15C8836732289B.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidLeft.uasset'
+[2018.01.14-02.39.19:442][321]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidLeft.uasset
+[2018.01.14-02.40.00:781][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_MidRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset" SILENT=true
+[2018.01.14-02.40.00:789][481]LogSavePackage: Save=5.43ms
+[2018.01.14-02.40.00:789][481]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidRight1AAD885640277FDB600BB386303A5CA4.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset'
+[2018.01.14-02.40.00:797][481]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset
+[2018.01.14-02.40.08:217][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_MidRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset" SILENT=true
+[2018.01.14-02.40.08:231][218]LogSavePackage: Save=5.59ms
+[2018.01.14-02.40.08:231][218]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidRight84EA12824E5DB7B43FE258A7C3959264.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset'
+[2018.01.14-02.40.08:236][218]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset
+[2018.01.14-02.40.43:460][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_Mid" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_Mid.uasset" SILENT=true
+[2018.01.14-02.40.43:468][722]LogSavePackage: Save=6.11ms
+[2018.01.14-02.40.43:468][722]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_Mid25AB913544EB5342E45BD48DF7E23224.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_Mid.uasset'
+[2018.01.14-02.40.43:472][722]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_Mid.uasset
+[2018.01.14-02.42.16:446][952]LogPaper2D: Triangulation of poly failed.
+[2018.01.14-02.42.22:668][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_MidRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset" SILENT=true
+[2018.01.14-02.42.22:680][574]LogSavePackage: Save=5.60ms
+[2018.01.14-02.42.22:681][574]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidRight3616792445705D5A67861FA4D885BFC5.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset'
+[2018.01.14-02.42.22:685][574]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset
+[2018.01.14-02.42.27:737][ 38]BlueprintLog: New page: Inventory 컴파일
+[2018.01.14-02.42.27:885][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset" SILENT=true
+[2018.01.14-02.42.27:909][ 38]LogSavePackage: Save=17.82ms
+[2018.01.14-02.42.27:909][ 38]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/InventoryC00685934DBAAB4927FE6D8F71BE32F3.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset'
+[2018.01.14-02.42.27:913][ 38]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset
+[2018.01.14-02.42.28:371][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset" SILENT=true
+[2018.01.14-02.42.28:392][ 62]LogSavePackage: Save=15.71ms
+[2018.01.14-02.42.28:392][ 62]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Inventory5AE3049D4E671A470D0BD7A88D590A80.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset'
+[2018.01.14-02.42.28:394][ 62]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset
+[2018.01.14-02.42.36:007][482]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_90.WidgetTree_350.HorizontalBox_3
+[2018.01.14-02.42.36:008][482]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_91.WidgetTree_351.HorizontalBox_3
+[2018.01.14-02.42.36:008][482]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_92.WidgetTree_352.HorizontalBox_3
+[2018.01.14-02.42.36:008][482]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_93.WidgetTree_353.HorizontalBox_3
+[2018.01.14-02.42.36:008][482]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Game/UMG/Inventory.Inventory_C:WidgetTree.HorizontalBox_3
+[2018.01.14-02.42.36:008][482]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_1.WidgetTree_360.HorizontalBox_3
+[2018.01.14-02.42.36:008][482]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_15:UMG_Total_C_4.WidgetTree_361.Inventory.WidgetTree_362.HorizontalBox_3
+[2018.01.14-02.42.36:008][482]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_2.WidgetTree_366.HorizontalBox_3
+[2018.01.14-02.42.36:008][482]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_6) from referencer (Image /Engine/UMG/Editor/Transient.Image_131).  Import failed...
+[2018.01.14-02.42.36:008][482]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_3.HorizontalBoxSlot_6"''
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_90.WidgetTree_350.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_91.WidgetTree_351.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_92.WidgetTree_352.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_93.WidgetTree_353.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Game/UMG/Inventory.Inventory_C:WidgetTree.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_1.WidgetTree_360.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_15:UMG_Total_C_4.WidgetTree_361.Inventory.WidgetTree_362.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_2.WidgetTree_366.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3 or HorizontalBox /Engine/Transient.World_29:Inventory_C_3.WidgetTree_367.HorizontalBox_3
+[2018.01.14-02.42.36:409][505]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_3.HorizontalBoxSlot_6) from referencer (Image /Engine/UMG/Editor/Transient.Image_131).  Import failed...
+[2018.01.14-02.42.36:410][505]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_3.HorizontalBoxSlot_6"''
+[2018.01.14-02.43.25:149][247]BlueprintLog: New page: Inventory 컴파일
+[2018.01.14-02.43.25:298][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset" SILENT=true
+[2018.01.14-02.43.25:325][247]LogSavePackage: Save=22.25ms
+[2018.01.14-02.43.25:326][247]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Inventory40D17AEB47A28C32B17DBEB8E7437530.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset'
+[2018.01.14-02.43.25:329][247]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset
+[2018.01.14-02.43.25:809][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset" SILENT=true
+[2018.01.14-02.43.25:834][271]LogSavePackage: Save=19.31ms
+[2018.01.14-02.43.25:834][271]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Inventory055CD95E4B5F32C0B7132F9AE778EAE8.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset'
+[2018.01.14-02.43.25:836][271]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset
+[2018.01.14-02.43.55:992][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset" SILENT=true
+[2018.01.14-02.43.56:005][ 70]LogSavePackage: Save=6.30ms
+[2018.01.14-02.43.56:005][ 70]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotLeftAA26B76F41E415388D01E8BD70490AD4.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset'
+[2018.01.14-02.43.56:009][ 70]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset
+[2018.01.14-02.44.06:503][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset" SILENT=true
+[2018.01.14-02.44.06:513][ 68]LogSavePackage: Save=4.53ms
+[2018.01.14-02.44.06:513][ 68]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotLeft804520124B4CE7A8F675618A7557E249.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset'
+[2018.01.14-02.44.06:518][ 68]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset
+[2018.01.14-02.44.25:379][971]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset" SILENT=true
+[2018.01.14-02.44.25:392][971]LogSavePackage: Save=5.60ms
+[2018.01.14-02.44.25:392][971]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotRight82C5E9B044BFA467DEA1C9A6A1AC8198.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset'
+[2018.01.14-02.44.25:396][971]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset
+[2018.01.14-02.44.30:474][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset" SILENT=true
+[2018.01.14-02.44.30:486][483]LogSavePackage: Save=5.79ms
+[2018.01.14-02.44.30:486][483]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotLeft7399DB2E48C3177851043B979C7E2CB5.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset'
+[2018.01.14-02.44.30:491][483]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset
+[2018.01.14-02.44.38:043][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotMid" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset" SILENT=true
+[2018.01.14-02.44.38:055][218]LogSavePackage: Save=5.53ms
+[2018.01.14-02.44.38:055][218]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotMidF7072F6F4B7987DE1AC85A8BD774C714.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset'
+[2018.01.14-02.44.38:058][218]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset
+[2018.01.14-02.45.06:516][569]LogPaper2D: Triangulation of poly failed.
+[2018.01.14-02.45.47:006][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_MidRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset" SILENT=true
+[2018.01.14-02.45.47:019][848]LogSavePackage: Save=6.47ms
+[2018.01.14-02.45.47:020][848]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidRight38884C1142429EC36262CABB3327B94F.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset'
+[2018.01.14-02.45.47:024][848]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset
+[2018.01.14-02.46.25:509][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_MidRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset" SILENT=true
+[2018.01.14-02.46.25:522][470]LogSavePackage: Save=7.07ms
+[2018.01.14-02.46.25:523][470]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidRightB0EC0BB74EDB21F488F008A4671E0423.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset'
+[2018.01.14-02.46.25:526][470]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset
+[2018.01.14-02.46.42:070][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_MidLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidLeft.uasset" SILENT=true
+[2018.01.14-02.46.42:082][680]LogSavePackage: Save=5.39ms
+[2018.01.14-02.46.42:082][680]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidLeftDE93C6E74983C2738D325195F2834361.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidLeft.uasset'
+[2018.01.14-02.46.42:087][680]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidLeft.uasset
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_89.WidgetTree_349.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_90.WidgetTree_350.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_91.WidgetTree_351.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_92.WidgetTree_352.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_93.WidgetTree_353.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_1.WidgetTree_375.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_15:UMG_Total_C_6.WidgetTree_376.Inventory.WidgetTree_377.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_2.WidgetTree_366.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_3.WidgetTree_367.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_4.WidgetTree_368.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.REINST_Inventory_C_96:WidgetTree.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Game/UMG/Inventory.Inventory_C:WidgetTree.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2 or HorizontalBox /Engine/Transient.World_29:Inventory_C_5.WidgetTree_381.HorizontalBox_2
+[2018.01.14-02.47.05:395][958]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UMG/Inventory.Inventory:WidgetTree.HorizontalBox_2.HorizontalBoxSlot_4) from referencer (Image /Engine/UMG/Editor/Transient.Image_77).  Import failed...
+[2018.01.14-02.47.05:395][958]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_2.HorizontalBoxSlot_4"''
+[2018.01.14-02.47.39:396][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotMid" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset" SILENT=true
+[2018.01.14-02.47.39:407][395]LogSavePackage: Save=4.55ms
+[2018.01.14-02.47.39:407][395]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotMidBE617CEB447869CD9DADC2A81E1EAED5.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset'
+[2018.01.14-02.47.39:411][395]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotMid.uasset
+[2018.01.14-02.48.08:139][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotLeft" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset" SILENT=true
+[2018.01.14-02.48.08:149][416]LogSavePackage: Save=4.69ms
+[2018.01.14-02.48.08:149][416]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotLeft681F433F43092797657F21AF7E9DE79A.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset'
+[2018.01.14-02.48.08:153][416]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotLeft.uasset
+[2018.01.14-02.48.12:755][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_BotRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset" SILENT=true
+[2018.01.14-02.48.12:766][868]LogSavePackage: Save=5.62ms
+[2018.01.14-02.48.12:766][868]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_BotRight354685CE48423C031728A081C514676C.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset'
+[2018.01.14-02.48.12:771][868]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_BotRight.uasset
+[2018.01.14-02.49.41:115][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resource/Sprites/Panel_MidRight" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset" SILENT=true
+[2018.01.14-02.49.41:130][217]LogSavePackage: Save=7.59ms
+[2018.01.14-02.49.41:130][217]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Panel_MidRightA709B639485E802B7DC29ABF8BF94DE6.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset'
+[2018.01.14-02.49.41:134][217]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Resource/Sprites/Panel_MidRight.uasset
+[2018.01.14-02.49.47:818][653]BlueprintLog: New page: Inventory 컴파일
+[2018.01.14-02.49.47:969][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG/Inventory" FILE="C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset" SILENT=true
+[2018.01.14-02.49.47:998][653]LogSavePackage: Save=22.33ms
+[2018.01.14-02.49.47:998][653]LogSavePackage: Moving 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Inventory352FE39F43B32B42F79D3E922765F711.tmp' to 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset'
+[2018.01.14-02.49.48:003][653]LogSavePackage: Display: Finished SavePackage C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/UMG/Inventory.uasset
+[2018.01.14-02.49.51:775][869]LogTemp: Repeating last play command: 선택된 뷰포트
+[2018.01.14-02.49.51:790][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-02.49.51:790][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-02.49.51:790][869]PIE: New page: PIE 세션: First (2018. 1. 14. 오후 8:49:51)
+[2018.01.14-02.49.51:790][869]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_First
+[2018.01.14-02.49.51:792][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001029s)
+[2018.01.14-02.49.51:792][869]LogAIModule: Creating AISystem for world First
+[2018.01.14-02.49.51:793][869]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2018.01.14-02.49.51:793][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/First.First to /Game/Level/UEDPIE_0_First.First (0.001970s)
+[2018.01.14-02.49.51:840][869]LogInit: XAudio2 using '스피커(High Definition Audio 장치)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.14-02.49.51:858][869]LogInit: FAudioDevice initialized.
+[2018.01.14-02.49.51:890][869]LogLoad: Game class is 'GameMode'
+[2018.01.14-02.49.51:891][869]LogWorld: Bringing World /Game/Level/UEDPIE_0_First.First up for play (max tick rate 0) at 2018.01.14-11.49.51
+[2018.01.14-02.49.51:891][869]LogWorld: Bringing up level for play took: 0.000545
+[2018.01.14-02.49.51:892][869]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-02.49.51:892][869]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.14-02.49.51:892][869]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-02.49.51:894][869]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.14-02.49.51:894][869]PIE: /Game/Level/UEDPIE_0_First 에 대한 에디터에서 플레이 시작 시간: -0.771
+[2018.01.14-02.49.51:894][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-02.49.54:749][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-02.49.54:784][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/First.First:PersistentLevel' has LevelScriptBlueprint '/Game/Level/First.First:PersistentLevel.First' with GeneratedClass '/Game/Level/First.First_C' with ClassGeneratedBy '/Game/Level/First.First:PersistentLevel.First'
+[2018.01.14-02.49.55:760][ 78]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2018.01.14-02.49.55:948][ 79]Cmd: QUIT_EDITOR
+[2018.01.14-02.49.56:063][ 79]LogExit: Preparing to exit.
+[2018.01.14-02.49.56:982][ 79]LogExit: Editor shut down
+[2018.01.14-02.49.56:989][ 79]LogExit: Transaction tracking system shut down
+[2018.01.14-02.49.57:126][ 79]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.14-02.49.57:126][ 79]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/' was aborted.
+[2018.01.14-02.49.57:126][ 79]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.14-02.49.57:126][ 79]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.14-02.49.57:126][ 79]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.14-02.49.57:126][ 79]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.14-02.49.57:126][ 79]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.14-02.49.57:211][ 79]LogExit: Object subsystem successfully closed.
+[2018.01.14-02.49.57:226][ 79]LogD3D11RHI: Shutdown
+[2018.01.14-02.49.57:226][ 79]LogD3D11RHI: CleanupD3DDevice
+[2018.01.14-02.49.57:229][ 79]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.14-02.49.57:237][ 79]LogModuleManager: Shutting down and abandoning module TextureEditor (558)
+[2018.01.14-02.49.57:237][ 79]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.01.14-02.49.57:237][ 79]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2018.01.14-02.49.57:237][ 79]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.01.14-02.49.57:237][ 79]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.01.14-02.49.57:237][ 79]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.01.14-02.49.57:237][ 79]LogModuleManager: Shutting down and abandoning module WorldBrowser (546)
+[2018.01.14-02.49.57:237][ 79]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.14-02.49.57:237][ 79]LogDirectoryWatcher: A directory notification for 'D:/EpicGames/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.14-02.49.57:240][ 79]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.14-02.49.57:240][ 79]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.14-02.49.57:240][ 79]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.14-02.49.57:240][ 79]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Collections/' was aborted.
+[2018.01.14-02.49.57:240][ 79]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Content/Developers/Administrator/Collections/' was aborted.
+[2018.01.14-02.49.57:240][ 79]LogDirectoryWatcher: A directory notification for 'C:/Users/Administrator/Documents/Unreal Projects/UMG_Practice/Saved/Collections/' was aborted.
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.14-02.49.57:241][ 79]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.14-02.49.57:242][ 79]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.14-02.49.57:242][ 79]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.14-02.49.57:242][ 79]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.14-02.49.57:242][ 79]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.14-02.49.57:242][ 79]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.14-02.49.57:242][ 79]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.14-02.49.57:242][ 79]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.14-02.49.57:242][ 79]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.14-02.49.57:997][ 79]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.14-02.49.57:998][ 79]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.14-02.49.57:998][ 79]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.14-02.49.57:998][ 79]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.14-02.49.57:998][ 79]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.14-02.49.57:998][ 79]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.14-02.49.57:998][ 79]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.14-02.49.57:998][ 79]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.14-02.49.58:050][ 79]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.14-02.49.58:057][ 79]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.14-02.49.58:058][ 79]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.14-02.49.58:058][ 79]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.14-02.49.58:058][ 79]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.14-02.49.58:059][ 79]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.14-02.49.58:219][ 79]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.14-02.49.58:220][ 79]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.14-02.49.58:221][ 79]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.14-02.49.58:221][ 79]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.14-02.49.58:221][ 79]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.14-02.49.58:222][ 79]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.14-02.49.58:222][ 79]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.14-02.49.58:222][ 79]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.14-02.49.58:222][ 79]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.14-02.49.58:222][ 79]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.14-02.49.58:222][ 79]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.14-02.49.58:222][ 79]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.14-02.49.58:222][ 79]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.14-02.49.58:322][ 79]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.14-02.49.58:423][ 79]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.14-02.49.58:423][ 79]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.14-02.49.58:423][ 79]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.14-02.49.58:423][ 79]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.14-02.49.58:423][ 79]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.14-02.49.58:423][ 79]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.14-02.49.58:423][ 79]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.14-02.49.58:423][ 79]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.14-02.49.58:424][ 79]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.14-02.49.58:424][ 79]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.14-02.49.58:425][ 79]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.14-02.49.58:425][ 79]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.14-02.49.58:425][ 79]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.14-02.49.58:425][ 79]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.14-02.49.58:425][ 79]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.14-02.49.58:425][ 79]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.14-02.49.58:431][ 79]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.14-02.49.58:433][ 79]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.14-02.49.58:433][ 79]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.14-02.49.58:433][ 79]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.14-02.49.58:433][ 79]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.14-02.49.58:433][ 79]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.14-02.49.58:433][ 79]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.14-02.49.58:433][ 79]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.14-02.49.58:433][ 79]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.14-02.49.58:434][ 79]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.14-02.49.58:483][ 79]LogDerivedDataCache: Shutdown
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.14-02.49.58:483][ 79]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.14-02.49.58:484][ 79]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.14-02.49.58:484][ 79]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.14-02.49.58:484][ 79]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE6CD4216-4E24-A54C-D110-6BB39A2E6CCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=f2134d0c4d815fe5deb956a68c25832f%7C79d9d70e03a94da2a36573f877b3400e%7Ca671821a-70f2-4aa6-b3fa-d9feac38d6e8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.14-02.49.58:518][ 79]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.14-02.49.58:519][ 79]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.14-02.49.58:519][ 79]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.14-02.49.58:519][ 79]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.14-02.49.58:519][ 79]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.14-02.49.58:520][ 79]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.14-02.49.58:520][ 79]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.14-02.49.58:520][ 79]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.14-02.49.58:522][ 79]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.14-02.49.58:525][ 79]LogExit: Exiting.
+[2018.01.14-02.49.58:533][ 79]Log file closed, 01/14/18 11:49:58
